@@ -5,8 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "owner": "mardoooo",
     "android": {
       "package": "com.mardo.liferpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "177ba28b-b1cd-4b6e-baed-3375c7423048"
+      }
     }
   }
 }
